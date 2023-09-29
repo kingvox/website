@@ -329,7 +329,7 @@ a:focus {
     border-color: #ffffff;
 }
 
-.hero .hero-btn .btn:first-child {
+.hero .hero-btn .btn {
     margin-right: 10px;
 }
 
